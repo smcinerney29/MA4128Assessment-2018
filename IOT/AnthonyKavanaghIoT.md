@@ -1,5 +1,7 @@
-Internet of Things (Anthony Kavanagh-14147793)
+Internet of Things
 ===========================
+
+***Complied by: Anthony Kavanagh - Student ID No: 14147793***
 
 <img src="https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Cover.png" width="700" height="500">
 
