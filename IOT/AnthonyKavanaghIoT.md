@@ -15,7 +15,7 @@ The Internet of Things is a topic that has attracted significant attention since
 
 The international Telecommunications Union has described the Internet of Things (IoT)as:
 
-> “a global infrastructure for the information society, enabling advanced services by interconnecting (physical and virtual) things based on existing and evolving interoperable information and communication technologies. Through the exploitation of identification, data capture, processing and communication capabilities, the IoT makes full use of things to offer services to all kinds of applications, whilst ensuring that security and privacy requirements are fulfilled.”
+>>> “a global infrastructure for the information society, enabling advanced services by interconnecting (physical and virtual) things based on existing and evolving interoperable information and communication technologies. Through the exploitation of identification, data capture, processing and communication capabilities, the IoT makes full use of things to offer services to all kinds of applications, whilst ensuring that security and privacy requirements are fulfilled.”
 
 The IoT put simply refers to a state by which objects, peoples animals etc are embedded with microprocessors which are connected to the internet via wireless connection. IoT applications generate data collected from various domains and sectors which provide useful insights into the environments and applications that generate it. 
 
