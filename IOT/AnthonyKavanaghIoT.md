@@ -17,7 +17,7 @@ The international Telecommunications Union has described the Internet of Things 
 
 The IoT put simply refers to a state by which objects, peoples animals etc are embedded with microprocessors which are connected to the internet via wireless connection. IoT applications generate data collected from various domains and sectors which provide useful insights into the environments and applications that generate it. 
 
-![Internet of Things Operation](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Operation.png)+
+![Internet of Things Operation](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Operation.png)
 
 #### *_Potential of IoT in Manufacturing_*
 
@@ -38,7 +38,7 @@ The IoT in such a situation can benefit the manufacturing system in a number of 
 8.	Increased Communication
 9.	Better and Faster Decision Making at all levels of the organisation due to the availability of accurate and precise manufacturing and customer related data 
 
-![Internet of Things Manufacturing Visualisation](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Manufacturing%20Visualisation.png)+
+![Internet of Things Manufacturing Visualisation](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Manufacturing%20Visualisation.png)
 
 #### *_References_*
 
