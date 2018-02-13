@@ -1,13 +1,13 @@
 Internet of Things (Anthony Kavanagh-14147793)
 ===========================
 
-![Internet of Things Cover](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Cover.png=250x250)
+![Internet of Things Cover](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Cover.png)
 
 #### *_Background and Projections_*
 
 The Internet of Things is a topic that has attracted significant attention since the idea was first brought about in 2014. Much analysis has been conducted in this area, with some predicting that there will be over 50 billion devices connected to the internet by the year 2020 creating a significant platform by which to operate and implement such an open for the Internet of Things
 
-![Internet of Things Projections](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Projections.png=250x250)
+![Internet of Things Projections](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Projections.png)
 
 #### *_Definitions_*
 
@@ -17,7 +17,7 @@ The international Telecommunications Union has described the Internet of Things 
 
 The IoT put simply refers to a state by which objects, peoples animals etc are embedded with microprocessors which are connected to the internet via wireless connection. IoT applications generate data collected from various domains and sectors which provide useful insights into the environments and applications that generate it. 
 
-![Internet of Things Operation](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Operation.png=250x250)
+![Internet of Things Operation](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Operation.png)
 
 #### *_Potential of IoT in Manufacturing_*
 
@@ -38,7 +38,7 @@ The IoT in such a situation can benefit the manufacturing system in a number of 
 8.	Increased Communication
 9.	Better and Faster Decision Making at all levels of the organisation due to the availability of accurate and precise manufacturing and customer related data 
 
-![Internet of Things Manufacturing Visualisation](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Manufacturing%20Visualisation.png=250x250)
+![Internet of Things Manufacturing Visualisation](https://github.com/ULStats/MA4128Assessment-2018/blob/master/IOT/Internet%20of%20Things%20Photos%20Anthony%20Kavanagh/Internet%20of%20Things%20Manufacturing%20Visualisation.png)
 
 #### *_References_*
 
@@ -47,4 +47,3 @@ Friess, P. (2016) Digitising the Industry - Internet of Things Connecting the Ph
 Turban, E., Whiteside, J., King, D. and Outland, J. (2017) Introduction to Electronic Commerce and Social Commerce, 4th ed., Cham: Springer.
 
 https://www.i-scoop.eu/internet-of-things-guide/internet-of-things-in-manufacturing/
-
